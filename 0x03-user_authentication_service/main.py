@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import requests
-
+"""An end-to-end (E2E) integration test for `app.py`"""
 
 EMAIL = "guillaume@holberton.io"
 PASSWD = "b4l0u"
